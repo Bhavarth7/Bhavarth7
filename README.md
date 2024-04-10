@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **b.bhangdia@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10aQRO7UbXRurT2GW87icxNKEXfFj46iy/view?usp=drive_link](https://drive.google.com/file/d/10aQRO7UbXRurT2GW87icxNKEXfFj46iy/view?usp=drive_link)
+- 📄 To know more about my experience:  [Resume Link](https://drive.google.com/file/d/10aQRO7UbXRurT2GW87icxNKEXfFj46iy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
