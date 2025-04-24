@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavarth Bhangdia</h1>
-<h3 align="center">AI Engineer @ Scale AI | Data Science Intern @ Alphaa ai</h3>
+<h3 align="center">Machine Learning and Product Development Engineer at Pixlr | AI Engineer @ Scale AI | Data Science Intern @ Alphaa ai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavarth7&label=Profile%20views&color=0e75b6&style=flat" alt="bhavarth7" /> </p>
 
