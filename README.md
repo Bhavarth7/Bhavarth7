@@ -5,7 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavarth7" alt="bhavarth7" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+-  I’m a Machine Learning Engineer with 1.5+ years of experience building production-grade generative AI pipelines, with a focus on diffusion models, real-time inference, and cloud-scale deployment. My background combines deep technical skill in ML model optimization, image/video generation, and distributed system design.
+
+- Core Skillset:
+  - ML & Deep Learning (PyTorch, TensorFlow, Hugging Face)
+  - Generative AI (Stable Diffusion, IP-Adapter, LoRA fine-tuning)
+  - Scalable Inference (Ray Serve, Docker, AWS, FastAPI)
+  - Applied Research & Production Deployment
+
+- Career Highlight:
+At Pixlr, I led the development of a high-scale image editing pipeline serving 10M+ users, optimizing inference time by 70% using custom LoRA-based fine-tuning, last-layer distillation, and model chaining techniques.
+
+- I'm passionate about pushing the boundaries of AI with efficient, real-time ML systems and collaborating across product and research teams to turn complex models into tangible experiences.
+
+- Let’s connect if you’re working on cutting-edge ML/AI infrastructure or building real-world applications with generative models!
 
 - 📫 How to reach me **b.bhangdia@gmail.com**
 
