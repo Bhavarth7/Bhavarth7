@@ -1,82 +1,90 @@
-<h1 align="center">Hi, I'm Bhavarth Bhangdia</h1>
+<div align="center">
 
-<p align="center">
-  Machine Learning and Product Development Engineer at Pixlr | AI Engineer @ Scale AI | Data Science Intern @ Alphaa AI
-</p>
+# Bhavarth Bhangdia
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavarth7&label=Profile%20views&color=0e75b6&style=flat" alt="bhavarth7" />
-</p>
+### Production Machine Learning Engineer · Generative AI Systems
 
-<p align="center">
-  <a href="https://twitter.com/bhavarth_7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/bhavarth7bhangdia" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/bhavarth" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+I design and ship low-latency AI systems that turn research-grade models into reliable product experiences.
 
-## About
+[![GitHub](https://img.shields.io/badge/GitHub-bhavarth7-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavarth7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavarth7bhangdia/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-bhavarth-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/bhavarth/)
+[![X](https://img.shields.io/badge/X-bhavarth__7-161B22?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bhavarth_7)
 
-I build production-grade generative AI systems with a focus on diffusion models, real-time inference, and cloud-scale deployment.
+![Profile views](https://komarev.com/ghpvc/?username=bhavarth7&label=PROFILE+VIEWS&color=14B8A6&style=flat-square)
 
-At Pixlr, I helped lead a high-scale image editing pipeline serving 10M+ users and reduced inference latency by 70% through custom LoRA fine-tuning, last-layer distillation, and model chaining.
+</div>
 
-## What I Build
+---
 
-- Generative AI pipelines for image and video workflows
-- Low-latency inference services with Ray Serve, FastAPI, Docker, and AWS
-- Model optimization systems for cost, speed, and quality
-- Product-facing ML features that ship reliably at scale
+## Production Impact
 
-## Core Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>10M+ users served</h3>
+      <p>Helped lead the development of a production image-editing pipeline at Pixlr, translating generative AI research into product experiences at global scale.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>70% faster inference</h3>
+      <p>Reduced inference latency through custom LoRA fine-tuning, last-layer distillation, and model-chaining techniques.</p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Ray%20Serve-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray Serve" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
+My work sits at the intersection of **applied research, ML systems, and product engineering**. I focus on the difficult last mile: making generative models fast, cost-aware, observable, and dependable under real production load.
 
-## Engineering Principles
+## Systems Expertise
 
-- Optimize for user-visible impact, not vanity metrics
-- Design systems that are observable, debuggable, and cost-aware
-- Bridge research and product with fast iteration loops
-- Ship models that stay stable under real production load
+| Domain | What I work on |
+|---|---|
+| **Generative AI** | Diffusion models, Stable Diffusion, IP-Adapter, LoRA fine-tuning, image and video generation |
+| **Inference optimization** | Distillation, model chaining, latency reduction, throughput and quality trade-offs |
+| **ML platforms** | Distributed serving with Ray Serve, containerized deployment, API design, cloud-scale workloads |
+| **Product ML** | Turning research prototypes into measurable, user-facing capabilities |
 
-## Selected Impact
+## Technology Stack
 
-- Built and optimized a production image editing pipeline used by 10M+ users
-- Cut inference time by 70% with LoRA fine-tuning, distillation, and model chaining
-- Worked across product and research to turn complex models into usable experiences
+<div align="center">
 
-## Current Focus
+![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=2DD4BF)
+![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-161B22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-161B22?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Ray](https://img.shields.io/badge/Ray_Serve-161B22?style=for-the-badge&logo=ray&logoColor=2DD4BF)
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
-- Faster generative AI inference
-- Better model serving architectures
-- Reliable deployment pipelines for production ML
-- High-signal product experiences powered by applied research
+</div>
 
-## GitHub Stats
+## Current Work
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavarth7&show_icons=true&theme=default&hide_border=true" alt="bhavarth7 stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavarth7&layout=compact&hide_border=true" alt="bhavarth7 top languages" />
-</p>
+- Architecting faster, more efficient generative AI inference pipelines
+- Improving model-serving reliability, observability, and cost efficiency
+- Exploring image and video generation systems that preserve quality at lower latency
+- Bridging product, research, and infrastructure teams to move models into production
 
-## Contact
+## Engineering Activity
 
-- Email: [b.bhangdia@gmail.com](mailto:b.bhangdia@gmail.com)
-- Resume: [View my resume](https://drive.google.com/file/d/10aQRO7UbXRurT2GW87icxNKEXfFj46iy/view?usp=drive_link)
+<div align="center">
 
-<p align="center">
-  If you're building cutting-edge ML infrastructure or shipping real-world generative AI products, let's connect.
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavarth7&amp;theme=github_dark" alt="Bhavarth's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavarth7&amp;theme=github_dark" alt="Bhavarth's top repository languages" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavarth7&amp;bg_color=0D1117&amp;color=8B949E&amp;line=2DD4BF&amp;point=F0F6FC&amp;area=true&amp;hide_border=true" alt="Bhavarth's GitHub contribution activity graph" />
+
+</div>
+
+> I optimize for user-visible impact, clear system trade-offs, and ML infrastructure that remains understandable when the prototype becomes a product.
+
+## Let's Build
+
+I am interested in ambitious work across **generative AI infrastructure, real-time inference, multimodal systems, and applied ML products**.
+
+[![Email](https://img.shields.io/badge/Email-b.bhangdia%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.bhangdia@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View_experience-161B22?style=for-the-badge&logo=googledrive&logoColor=2DD4BF)](https://drive.google.com/file/d/10aQRO7UbXRurT2GW87icxNKEXfFj46iy/view?usp=drive_link)
+
+<div align="center">
+  <sub>Pixlr · Scale AI · Alphaa AI</sub>
+</div>
