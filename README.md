@@ -69,8 +69,8 @@ My work sits at the intersection of **applied research, ML systems, and product 
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavarth7&amp;theme=github_dark" alt="Bhavarth's GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavarth7&amp;theme=github_dark" alt="Bhavarth's top repository languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavarth7&amp;theme=nord_dark&amp;v=2" alt="Bhavarth's GitHub statistics" />
+<img width="49%" src="assets/top-languages.svg" alt="Bhavarth's top repository languages: TypeScript, Python, JavaScript, Jupyter Notebook, and Java" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavarth7&amp;bg_color=0D1117&amp;color=8B949E&amp;line=2DD4BF&amp;point=F0F6FC&amp;area=true&amp;hide_border=true" alt="Bhavarth's GitHub contribution activity graph" />
 
